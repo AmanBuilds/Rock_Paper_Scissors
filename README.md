@@ -36,7 +36,7 @@ A simple and interactive Rock Paper Scissors game built with HTML, CSS, and Java
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Rabdevil/rock-paper-scissors.git
+   git clone https://github.com/AmanBuilds/rock-paper-scissors.git
    ```
 2. Navigate to the project directory:
    ```bash
